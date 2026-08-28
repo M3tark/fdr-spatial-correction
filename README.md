@@ -58,7 +58,7 @@ The code in this repository is licensed under MIT; the data on Zenodo is separat
 pip install -r requirements.txt
 ```
 
-Core dependencies: `numpy`, `scipy`, `xarray`, `matplotlib` `proplot`
+Core dependencies: `numpy`, `scipy`, `xarray`, `matplotlib`, `proplot`
 
 ---
 
