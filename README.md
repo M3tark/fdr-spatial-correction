@@ -4,7 +4,7 @@
 
 This repository contains the analysis code accompanying the preprint (Schutte et al., 2026, EGUsphere), which examines a specific and counterintuitive failure mode of false discovery rate (FDR) correction when applied to spatially coherent geoscientific data.
 
-The underlying data are hosted on Zenodo (see below) rather than in this repository.
+The underlying data are hosted on Zenodo (see below).
 
 ---
 
@@ -58,7 +58,7 @@ Licensed under CC BY 4.0.
 pip install -r requirements.txt
 ```
 
-Core dependencies: `numpy`, `scipy`, `xarray`, `matplotlib`
+Core dependencies: `numpy`, `scipy`, `xarray`, `matplotlib` `proplot`
 
 ---
 
