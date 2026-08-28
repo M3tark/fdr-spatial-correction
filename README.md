@@ -4,7 +4,7 @@
 
 This repository contains the analysis code accompanying the preprint (Schutte et al., 2026, EGUsphere), which examines a specific and counterintuitive failure mode of false discovery rate (FDR) correction when applied to spatially coherent geoscientific data.
 
-The underlying data are hosted on Zenodo (see below).
+The underlying data are hosted on Zenodo (see below) rather than in this repository.
 
 ---
 
@@ -48,7 +48,7 @@ Code and data:
 
 Zenodo deposit: **https://zenodo.org/records/20280931**
 
-Licensed under CC BY 4.0.
+The code in this repository is licensed under MIT; the data on Zenodo is separately licensed under CC BY 4.0.
 
 ---
 
@@ -74,4 +74,4 @@ Co-authors: Leonardo Olivetti, Flavio Maria Emanuele Pons, Gabriele Messori
 
 ## License
 
-CC BY 4.0 — see the Zenodo record for full license details.
+MIT — see `LICENSE`. The data on Zenodo is separately licensed under CC BY 4.0.
